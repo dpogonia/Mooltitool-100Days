@@ -19,8 +19,8 @@ SwiftUI, Core Data.
 ## Запуск
 
 ```bash
-git clone https://github.com/dpogonia/Mooltitool-100Days.git
-cd Mooltitool-100Days
+git clone https://github.com/dpogonia/Mooltitool-UDEMY.git
+cd Mooltitool-UDEMY
 open Mooltitool.xcodeproj
 ```
 
